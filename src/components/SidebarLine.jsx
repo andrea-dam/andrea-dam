@@ -7,7 +7,7 @@ import FluentCertificate16Regular from "./icons/FluentCertificate16Regular";
 
 export default function SidebarLine() {
 	return (
-		<div className="inset-y-0 fixed h-full w-0.5 bg-neutral-950 left-10 flex flex-col justify-center items-center gap-3">
+		<div className="fixed inset-y-0 left-10 flex h-full w-[3px] flex-col items-center justify-center gap-3 bg-neutral-950">
 			<LateralIconWrapper icon={PhUser()} href="#header" />
 			<LateralIconWrapper icon={IconParkOutlinePage()} href="#projects" />
 			<LateralIconWrapper icon={FluentCertificate16Regular()} />
