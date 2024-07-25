@@ -2,7 +2,7 @@
 
 <img src="https://github.com/andrea-dam/andrea-dam/assets/120137794/ab4dc620-d97f-41c2-96dc-a7e02e65e7e6" width="100" height="100" />
 
-I'm a Web Developer Junior, focused on frontend development.
+I'm a Web Developer focused on frontend development.
 
 I mainly work with JavaScript. Vue.js and Inertia.js are my daily bread, and I recently started studying React and its ecosystem.
 I also have a basic understanding of PHP and its framework Laravel, which I initially studied at the Hackademy bootcamp by [Aulab](https://aulab.it/), while continuing to deepen thanks to [Laracasts](https://laracasts.com/@Andros).
