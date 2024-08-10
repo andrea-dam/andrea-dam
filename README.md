@@ -20,14 +20,4 @@ I migrated some of my repositories from my [GitLab account](https://gitlab.com/a
 
 ## 🖥️ Tecnologies I Love
 
-<img src="https://api.iconify.design/devicon:html5.svg" width="64" height="64" />
-<img src="https://api.iconify.design/devicon:css3.svg" width="64" height="64" />
-<img src="https://api.iconify.design/devicon:javascript.svg" width="64" height="64" />
-<img src="https://api.iconify.design/devicon:typescript.svg" width="64" height="64" />
-<img src="https://api.iconify.design/logos:vue.svg" width="64" height="64" />
-<img src="https://api.iconify.design/logos:vueuse.svg" width="64" height="64" />
-<img src="https://api.iconify.design/devicon:react.svg" width="64" height="64" />
-<img src="https://api.iconify.design/devicon:tailwindcss.svg" width="64" height="64" />
-<img src="https://api.iconify.design/simple-icons:inertia.svg" width="64" height="64" />
-<img src="https://api.iconify.design/devicon:php.svg" width="64" height="64" />
-<img src="https://api.iconify.design/devicon:laravel.svg" width="64" height="64" />
+<img src="https://api.iconify.design/devicon:html5.svg" width="64" height="64" /><img src="https://api.iconify.design/devicon:css3.svg" width="64" height="64" /><img src="https://api.iconify.design/devicon:javascript.svg" width="64" height="64" /><img src="https://api.iconify.design/devicon:typescript.svg" width="64" height="64" /><img src="https://api.iconify.design/logos:vue.svg" width="64" height="64" /><img src="https://api.iconify.design/logos:vueuse.svg" width="64" height="64" /><img src="https://api.iconify.design/devicon:react.svg" width="64" height="64" /><img src="https://api.iconify.design/devicon:tailwindcss.svg" width="64" height="64" /><img src="https://api.iconify.design/simple-icons:inertia.svg" width="64" height="64" /><img src="https://api.iconify.design/devicon:php.svg" width="64" height="64" /><img src="https://api.iconify.design/devicon:laravel.svg" width="64" height="64" />
